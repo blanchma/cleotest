@@ -47,7 +47,7 @@ end
 gem 'bootstrap-sass'
 gem 'omniauth'
 gem 'omniauth-facebook'
-gem 'pg'
+
 gem 'simple_form'
 gem 'thin'
 
